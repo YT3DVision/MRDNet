@@ -1,7 +1,7 @@
 ## MRDNet
 
 <p align="center">
-  <img src="https://github.com/YT3DVision/MRDNet/figure/result.png">
+  <img src="https://github.com/YT3DVision/MRDNet/blob/main/figure/result.png">
 </p>
 
 *This is the result of MRDNet.* 
@@ -10,7 +10,7 @@
 
 ### Code
 
-***<font color="#FF4500">Our code is coming soon.</font>***
+***<font color="red">Our code is coming soon.</font>***
 
 
 
