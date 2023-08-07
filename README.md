@@ -1,7 +1,7 @@
 ## MRDNet
 *This is the result of MRDNet:* 
 <p align="center">
-  <img src="https://github.com/YT3DVision/MRDNet/blob/main/figure/result.png" style="width:80%; height:80%">
+  <img src="https://github.com/YT3DVision/MRDNet/blob/main/figure/result.png" style="zoom:90%;" />
 </p>
 
 
