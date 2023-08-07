@@ -1,16 +1,16 @@
 ## MRDNet
-
+*This is the result of MRDNet.* 
 <p align="center">
   <img src="https://github.com/YT3DVision/MRDNet/blob/main/figure/result.png">
 </p>
 
-*This is the result of MRDNet.* 
 
 
 
 ### Code
 
-***<font color="red">Our code is coming soon.</font>***
+***<span style="color: green">Our code is coming soon!</span>***
+<font color="red">Our code is coming soon.</font>
 
 
 
