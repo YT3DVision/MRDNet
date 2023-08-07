@@ -1,5 +1,5 @@
 ## MRDNet
-*This is the result of MRDNet.* 
+*This is the result of MRDNet:* 
 <p align="center">
   <img src="https://github.com/YT3DVision/MRDNet/blob/main/figure/result.png">
 </p>
@@ -9,8 +9,7 @@
 
 ### Code
 
-***<span style="color: green">Our code is coming soon!</span>***
-<font color="red">Our code is coming soon.</font>
+***<font color="red">Our code is coming soon.</font>***
 
 
 
