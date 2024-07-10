@@ -7,7 +7,7 @@
 ## Result Comparisons
 
 <p align="center">
-  <img src="https://github.com/YT3DVision/MRDNet/blob/main/figure/result.png" style="width:100%" />
+  <img src="https://github.com/YT3DVision/MRDNet/blob/main/figure/result.jpg" style="width:100%" />
 </p>
 
 ## Network Architecture
