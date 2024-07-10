@@ -16,7 +16,13 @@
   <img src="https://github.com/YT3DVision/MRDNet/blob/main/figure/network.jpg" style="width:100%" />
 </p>
 
+## Quantitative Comparisons
+
+<p align="center">
+  <img src="https://github.com/YT3DVision/MRDNet/blob/main/figure/quantitative_result.jpg" style="width:100%" />
+</p>
+
 ## Dataset
 
-**The dataset can be obtained from <a href="https://pan.baidu.com/s/14kr765l96onBKHVkekchyA?pwd=1234">Baidu Netdisk</a> or <a href="https://drive.google.com/file/d/1HPjHTzpbhJ1dclXntXHTq4z424uu3xSg/view?usp=sharing">Google Drive</a>.**
+**The dataset (rendered by Blender) composed of reflection layers and transmission layers can be obtained from <a href="https://pan.baidu.com/s/14kr765l96onBKHVkekchyA?pwd=1234">Baidu Netdisk</a> or <a href="https://drive.google.com/file/d/1HPjHTzpbhJ1dclXntXHTq4z424uu3xSg/view?usp=sharing">Google Drive</a>.**
 
